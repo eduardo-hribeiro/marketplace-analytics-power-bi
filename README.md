@@ -633,6 +633,15 @@ O desenvolvimento deste projeto permitiu aprofundar conhecimentos relacionados a
 
 Projeto desenvolvido como parte do meu portfólio de **Data Analytics**, com foco no desenvolvimento de soluções de Business Intelligence utilizando Power BI.
 
+---
+
+## 📄 Licença
+
+Este projeto é de uso educacional.
+Você pode reutilizar o conteúdo para estudos, desde que mantenha os créditos ao autor.
+
+---
+
 ### Contato
 
 - LinkedIn: [linkedin.com/in/eduardo-ribeiroalves/](https://www.linkedin.com/in/eduardo-ribeiroalves/)
