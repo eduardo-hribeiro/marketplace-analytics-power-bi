@@ -636,4 +636,4 @@ Projeto desenvolvido como parte do meu portfólio de **Data Analytics**, com foc
 ### Contato
 
 - LinkedIn: [linkedin.com/in/eduardo-ribeiroalves/](https://www.linkedin.com/in/eduardo-ribeiroalves/)
-- GitHub: github.com/eduardo-hribeiro
+- GitHub: [github.com/eduardo-hribeiro](https://github.com/eduardo-hribeiro)
