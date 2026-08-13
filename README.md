@@ -61,7 +61,7 @@ Análises relacionadas ao portfólio, categorias, volume vendido, preços e cust
 ### Clientes e Satisfação
 Indicadores relacionados aos clientes, avaliações, pontualidade e desempenho das entregas.
 
-![Home](Images/01-home.png)
+![Home](images/01-home.png)
 
 A página também apresenta uma breve descrição do projeto, período analisado, escopo da análise e principais tecnologias utilizadas.
 
@@ -71,7 +71,7 @@ A página também apresenta uma breve descrição do projeto, período analisado
 
 A página **Desempenho Geral do Marketplace** apresenta uma visão executiva e consolidada da operação.
 
-![Visão Geral](Images/02-visao-geral.png)
+![Visão Geral](images/02-visao-geral.png)
 
 ## Principais KPIs
 
@@ -126,7 +126,7 @@ A análise mostra forte concentração das compras realizadas por **cartão de c
 
 A página **Produtos e Categorias** foi criada para aprofundar a análise do portfólio comercial.
 
-![Produtos e Categorias](Images/03-produtos.png)
+![Produtos e Categorias](images/03-produtos.png)
 
 ## Principais KPIs
 
@@ -173,7 +173,7 @@ A maior parte dos itens vendidos encontra-se na faixa de **até R$ 100**.
 
 A página **Clientes e Satisfação** concentra indicadores relacionados à experiência do consumidor e ao desempenho das entregas.
 
-![Clientes e Satisfação](Images/04-clientes-satisfacao.png)
+![Clientes e Satisfação](images/04-clientes-satisfacao.png)
 
 ## Principais KPIs
 
@@ -212,7 +212,7 @@ O gráfico temporal permite acompanhar como a percepção dos clientes variou du
 
 Além das páginas principais, foi criada uma página específica de **drill-through**.
 
-![Análise Detalhada da Categoria](Images/05-drill-through.png)
+![Análise Detalhada da Categoria](images/05-drill-through.png)
 
 Ao selecionar uma categoria em um visual compatível, o usuário pode acessar uma análise detalhada daquela categoria.
 
@@ -263,7 +263,7 @@ Para aumentar o nível de detalhe sem sobrecarregar visualmente os dashboards, f
 
 Ao posicionar o cursor sobre determinado ponto da série temporal, são exibidos indicadores específicos daquele período.
 
-![Tooltip de Período](Images/06-tooltip-periodo.png)
+![Tooltip de Período](images/06-tooltip-periodo.png)
 
 Entre as informações apresentadas estão:
 
@@ -279,7 +279,7 @@ Entre as informações apresentadas estão:
 
 Nos gráficos de categorias, o usuário pode visualizar informações adicionais apenas posicionando o cursor sobre uma categoria.
 
-![Tooltip de Categoria](Images/07-tooltip-categoria.png)
+![Tooltip de Categoria](images/07-tooltip-categoria.png)
 
 O tooltip apresenta:
 
@@ -295,7 +295,7 @@ O tooltip apresenta:
 
 Também foi criado um tooltip dedicado à experiência do consumidor.
 
-![Tooltip de Experiência](Images/08-tooltip-experiencia.png)
+![Tooltip de Experiência](images/08-tooltip-experiencia.png)
 
 São apresentados indicadores como:
 
@@ -312,7 +312,7 @@ Esses tooltips permitem disponibilizar informações adicionais mantendo as pág
 
 O projeto utiliza um modelo relacional composto pelas tabelas originais do conjunto de dados e dimensões auxiliares criadas durante o desenvolvimento.
 
-![Modelo de Dados](Images/09-modelo-dados.png)
+![Modelo de Dados](images/09-modelo-dados.png)
 
 Entre as principais tabelas utilizadas estão:
 
