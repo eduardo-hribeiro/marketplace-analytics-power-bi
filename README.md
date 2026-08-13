@@ -565,7 +565,7 @@ Marketplace-Analytics/
 │
 ├── Marketplace_Analytics.pbix
 │
-└── Images/
+└── images/
     ├── 01-home.png
     ├── 02-visao-geral.png
     ├── 03-produtos.png
