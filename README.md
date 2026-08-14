@@ -639,8 +639,7 @@ Projeto desenvolvido como parte do meu portfólio de **Data Analytics**, com foc
 
 ## 📄 Licença
 
-Este projeto é de uso educacional.
-Você pode reutilizar o conteúdo para estudos, desde que mantenha os créditos ao autor.
+Este projeto está disponível sob os termos especificados no arquivo [LICENSE](LICENSE).
 
 ---
 
